@@ -12,6 +12,10 @@
 
 [] research how to set timer deadline on picks
 
+[] v1 deadline - kickoff of first match in the gameweek
+
+[] v2 deadline - specific to each match during the gameweek
+
 [] is there an api to pull epl results
 
 [] user selection = button select from entire slate of games
@@ -28,6 +32,8 @@
 
 [] how to generate random code for league
 
-[] how to ensure code is not duplicated
+[] how to ensure private league random code is not duplicated
 
 [] how to compare user picks to game results
+
+[] how to handle gameweeks with only a few teams playing? combine into a 'double gameweek'?
