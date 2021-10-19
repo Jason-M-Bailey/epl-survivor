@@ -21,7 +21,12 @@ function Account() {
   function handleClick(event) {
     event.preventDefault();
     console.log(input);
-    // axios.post("http://localhost:3001/picks", newPick)
+    const newPick = {
+      team: input.team,
+      week: input.week,
+    }
+
+    axios.post("http://localhost:3001/create", newPick)
   }
 
   return (
