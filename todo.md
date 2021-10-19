@@ -37,3 +37,5 @@
 [] how to compare user picks to game results
 
 [] how to handle gameweeks with only a few teams playing? combine into a 'double gameweek'?
+
+[] make navbar responsive
